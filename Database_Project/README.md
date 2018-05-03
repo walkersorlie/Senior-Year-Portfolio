@@ -4,4 +4,4 @@ We did not supply our project to the UAAC, but a goal of mine is to contact the 
 
 This project addresses the Computer Science learning goal **To acquire significant project experience working both individually and in a group setting** and **To understand the concepts and techniques of software design**.	This project also addresses the college-wide learning goals **Creativity**, **Collaboration**, **Communication**, and **Global Responsibility**.
 
-Here is the link to the gitHub repo: https://github.com/aidanpirish/UAAC_DB
+Here is the link to the GitHub repo: https://github.com/aidanpirish/UAAC_DB
