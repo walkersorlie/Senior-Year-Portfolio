@@ -3,3 +3,5 @@ This assignment was the semester project for the Databases class. As a team of 4
 We did not supply our project to the UAAC, but a goal of mine is to contact the UAAC and ask them what they would like in a database application. We have the foundation to make them a good product, and it would be great experience to make an application that an organization uses.
 
 This project addresses the Computer Science learning goal **To acquire significant project experience working both individually and in a group setting** and **To understand the concepts and techniques of software design**.	This project also addresses the college-wide learning goals **Creativity**, **Collaboration**, **Communication**, and **Global Responsibility**.
+
+Here is the link to the gitHub repo: https://github.com/aidanpirish/UAAC_DB
